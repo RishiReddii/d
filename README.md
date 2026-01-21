@@ -13,6 +13,8 @@ AgreementHub is a full-stack **document lifecycle management** application built
 
 ## Screenshots 
 <img width="1906" height="865" alt="image" src="https://github.com/user-attachments/assets/278269a4-8be0-4380-83cb-4e0a41e029ab" />
+<img width="1919" height="854" alt="image" src="https://github.com/user-attachments/assets/bba93619-0f54-48e0-ac16-a4f98932f018" />
+
 
 
 
